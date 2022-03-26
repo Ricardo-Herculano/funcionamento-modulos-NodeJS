@@ -1,4 +1,4 @@
-# funcionamento-modulos-NodeJS
+# Funcionamento-modulos-NodeJS
 
 Adicionei neste repositório apenas para fim de estudos, fundamentos do funcionamento dos modulos no Javascript.
 
